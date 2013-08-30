@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 2Ace's CDN77 Controller 0.1.1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-30 14:55-0300\n"
+"PO-Revision-Date: 2013-08-30 14:55-0300\n"
+"Last-Translator: Celso Bessa <celsocadastro@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ../includes\n"
+
+#: ../aa-cdn77-controller.php:20
+#: ../aa-cdn77-controller.php:23
+msgid "CDN77 Controller Options"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:23
+msgid "CDN77 Controller"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:29
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../aa-cdn77-controller.php:58
+msgid "Settings Updated"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:61
+msgid "Your CDN purge was initiated. It may take a few minutes to complete."
+msgstr ""
+
+#: ../aa-cdn77-controller.php:79
+msgid "2Aces CDN77 Controller"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:80
+msgid "Just a simple plugin to purge the files on your CDN77's resource."
+msgstr ""
+
+#: ../aa-cdn77-controller.php:81
+msgid "Insert you CDN resource settings in the fields below and hit the save button."
+msgstr ""
+
+#: ../aa-cdn77-controller.php:82
+msgid "After the set up, hit the Purge All button whenever you REALLY need to flush all your CDN cache."
+msgstr ""
+
+#: ../aa-cdn77-controller.php:83
+msgid "<em>(e.g. when your change all your blog image sizes, theme or when you are using W3TC Generic Mirror feature with a CDN77 CDN)</em>"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:87
+msgid "CDN77 Controls"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:93
+msgid "Purge All"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:99
+msgid "Your CDN Settings"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:104
+msgid "CDN ID"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:108
+msgid "Your Login"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:112
+msgid "API Password"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:117
+msgid "Update Settings"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:122
+msgid "You can find your ID, login and API password information on CDN77's API Help Page"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:123
+msgid "In that page, you need to click on &quot;<em>List of CDN IDs</em>&quot; and on &quot;<em>Show API password</em>&quot;"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:128
+msgid "Thanks and Important notes"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:129
+msgid "Thanks for using this plugin!"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:130
+msgid "We would like to make some important notes:"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:131
+msgid "<strong>This is an experimental plugin</strong> and depends on third parties services. <strong>It&quot;s free to use, <em>as is</em></strong> and this means that you we do not provide specific support, although we try to do our best on Wordpress Community Support Forum, and <strong>we are not responsible for any damage to your site</strong>"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:132
+msgid "Yet, if it&quots being useful to you, considerate telling the world about it. Just publish a post, a tweet or status update pointing to"
+msgstr ""
+
+#: ../aa-cdn77-controller.php:133
+msgid "By the way, 2Aces is a brazilian digital content and strategy company and we provide <em>Inbound Marketing</em> and <strong>optimization</strong> services. You can learn more about us on"
+msgstr ""
+
