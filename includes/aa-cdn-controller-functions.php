@@ -1,10 +1,10 @@
 <?php
 /**
- * CDN77 Controller Functions
+ * 2Aces CDN Controller Functions
  *
  * @author      2Aces Conte&uacute;do e Estrat&eacute;gia
- * @package     CDN77 Controller
- * @version     0.1.0
+ * @package     2Aces CDN Controller
+ * @version     0.1.3.11
  */
 
 if(isset($_POST['id']))     $id   = $_POST['id'];
@@ -23,7 +23,7 @@ $url = 'https://client.cdn77.com/api/purge-all';
     curl_close($ch);
     $data = json_decode( $data );
     if ($data->{'status'}) {
-      header("Location:http://www.2aces.com.br/wp-admin/options-general.php?page=aa-cdn77-controller&message=purgedall");
+      header("Location:http://www.2aces.com.br/wp-admin/options-general.php?page=aa-cdnc&message=purgedall");
     }
     else {
         var_dump($data); 
